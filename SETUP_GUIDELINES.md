@@ -7,7 +7,7 @@ To use the app or contribute you should clone the project and open it with:
 
 Then you must setup the project to use Firebase and Firestorage, an add the google-services.json file
 
-Also you are going to need a Google API key, change the file [google_api_key.xml](https://github.com/Charliocat/Antarec/blob/develop/app/src/main/res/values/google_api_key.xml)
+Also you are going to need a Google API key, change the file [google_api_key.xml](https://github.com/Charliocat/Antarec/blob/master/Android/app/src/main/res/values/google_api_key.xml)
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
