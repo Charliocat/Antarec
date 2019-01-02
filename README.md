@@ -19,7 +19,7 @@ On the Trip Days screen you can select or change the date displayed and then sta
 If you go back to the main screen once the trip is finished, you can see it on the list, from there you can select the trip to edit it, or you can longpress the trip and delete it using the main screen menu.
 
 ## Contributing
-+ [Setup Guidelines](https://github.com/Charliocat/Antarec/blob/develop/SETUP_GUIDELINES.md)
++ [Setup Guidelines](https://github.com/Charliocat/Antarec/blob/master/SETUP_GUIDELINES.md)
 
 ## Dependencies
 + [GoogleDagger](https://github.com/google/dagger)
