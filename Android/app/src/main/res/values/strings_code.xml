@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="posting">Posting...</string>
+    <string name="to_before_from">To before From</string>
+    <string name="saved_successful">Trip saved successfully</string>
+    <string name="delete_title">Delete</string>
+    <string name="delete_warning">Are you sure to delete the selected items?"</string>
+    <string name="delete_picture_warning">Are you sure to delete the selected picture?"</string>
+    <string name="delete_location_warning">Are you sure to delete the location?"</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="no_trips_selected">No trips selected!</string>
+    <string name="delete_warning_day">Are you sure to delete the current day</string>
+    <string name="day_saved">Day saved!</string>
+    <string name="media_action">Select Action</string>
+    <string name="gallery_option">Select photo from gallery</string>
+    <string name="camera_option">Select photo from camera</string>
+    <string name="must_save_day">Day not yet saved!</string>
+    <string name="picture_saved">Picture saved!</string>
+    <string name="picture_deleted">Picture deleted</string>
+    <string name="fail_picture_upload">Picture Not uploaded</string>
+</resources>

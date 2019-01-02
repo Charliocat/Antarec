@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Antarec</string>
+    <string name="prompt_from_date">From</string>
+    <string name="prompt_to_date">To</string>
+    <string name="prompt_trip_title">Title</string>
+    <string name="prompt_place_name">Place</string>
+    <string name="prompt_add_trip">Add Trip</string>
+    <string name="my_trips">My Trips</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="save_day">Save Day</string>
+    <string name="continueText">Continue</string>
+    <string name="prompt_number_persons">Number of travelers</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_attach_picture">Attach Picture</string>
+    <string name="action_attach_restaurant">Attach Restaurant</string>
+    <string name="action_set_location">Set Location</string>
+    <string name="prompt_day_notes">Notes...</string>
+    <string name="date">Date</string>
+    <string name="delete_day">Delete day</string>
+    <string name="title_activity_maps_restaurant">Map</string>
+    <string name="trip_header">Trip Header</string>
+    <string name="trip_days">Trip Days</string>
+    <string name="add_day">Add New Day</string>
+    <string name="travelers">Travelers</string>
+    <string name="from_date_txt">From:</string>
+    <string name="to_date_txt">To:</string>
+    <string name="save_trip">Save Trip</string>
+    <string name="travelers_info">Travelers Info:</string>
+</resources>
